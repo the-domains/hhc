@@ -1,0 +1,28 @@
+name: hhc
+favicon: null
+layout_spectrum: 0.45767907658591866
+typography_spectrum: 0.31220604153349996
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8636409253813326
+  lightness: 0.2382670089136809
+  saturation: 0.07525654742494226
+  rhythmicContrast: 0.2256780592724681
+purpose: []
